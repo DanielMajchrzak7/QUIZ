@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz_Application</string>
+    <string name="turbo_quiz">TURBO QUIZ</string>
+    <string name="zacznij_quiz">Zacznij QUIZ</string>
+    <string name="rekord_0">Rekord: 0</string>
+    <string name="pytanie_1_x">Pytanie: 1/x</string>
+</resources>
